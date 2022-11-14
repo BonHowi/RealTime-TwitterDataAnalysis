@@ -64,3 +64,5 @@ plt.title('Average mentions over time')
 plt.legend(('#google', '#apple'))
 plt.show()
 sentiment.graph()
+
+#todo
